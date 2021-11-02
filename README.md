@@ -2,7 +2,7 @@
 - 👀 I’m interested in web developing, sports, reading, writing...
 - 🌱 I’m currently attending Web Development 2021 Course...
 - 💞️ I’m looking to collaborate on creating websites :p
-- 📫 How to reach me: elizazylali@hotmail.com, 070442271
+- 📫 How to reach me: elizazylali@hotmail.com
 
 <!---
 elizxa/elizxa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
